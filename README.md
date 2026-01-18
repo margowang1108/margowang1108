@@ -1,4 +1,4 @@
-👋 Hi, I’m Margo (Yiguo) Wang
+# 👋 Hi, I’m Margo (Yiguo) Wang
 
 I’m a Data Scientist at BILL, working on fraud risk, payment systems, and data-driven decisioning at scale. I’m passionate about turning complex data into practical, high-impact solutions that balance risk control, user experience, and business growth.
 
