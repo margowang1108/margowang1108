@@ -20,7 +20,7 @@ Collaborate cross-functionally with engineering, product, and risk operations
 
 📬 Get in touch
 
-Email: yiguowan@usc.edu
+Email: yiguow12@gmail.com
 
 🧗‍♀️ Outside of work
 
